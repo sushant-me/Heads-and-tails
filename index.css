@@ -1,0 +1,40 @@
+*{
+    
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 14px;
+  font-style: normal;
+}
+
+body{
+    margin: auto;
+    padding: 0px;
+    max-width: 800px;
+}
+#username_div{
+    padding: 10px;
+    border-radius: 10px;
+    background: #e7e7e7;
+    margin-top: 10px;
+}
+input,button{
+    padding: 10px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.slidechoser{
+    padding: 10px;
+    background: #fffbe5;
+    margin: 5px;
+    text-align: center;
+}
+button{
+    cursor: pointer;
+}
+#result #flipping{
+    padding: 10px;
+    background: #fffbe5;
+    margin: 5px;
+    text-align: center;
+}
